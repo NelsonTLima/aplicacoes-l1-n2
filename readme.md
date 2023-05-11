@@ -4,7 +4,7 @@
 
 1. Crie uma nova página web para:
 
-- Apresentar pelo menos 3 países com suas respectivas bandeirasm, de cada um dos 5 continentes;
+- Apresentar pelo menos 3 países com suas respectivas bandeiras, de cada um dos 5 continentes;
 
 - O nome de cada país deve ser um link para a wikipedia (veja a figura, exemplo, Brasil);
 
